@@ -21,6 +21,7 @@ Tracks:
 - [6-Fret Guitar](Chart-File-Formats/chart-format/Tracks/6-Fret-Guitar.md)
 - [Drums](Chart-File-Formats/chart-format/Tracks/Drums.md)
 - [Lyrics](Chart-File-Formats/chart-format/Tracks/Lyrics.md)
+- [Pad](Chart-File-Formats/chart-format/Tracks/Pad.md)
 
 ### .mid
 
@@ -39,6 +40,7 @@ Tracks:
 - [Vocals](Chart-File-Formats/mid-format/Tracks/Vocals.md)
 - [Pro Guitar](Chart-File-Formats/mid-format/Tracks/Pro-Guitar.md)
 - [Pro Keys](Chart-File-Formats/mid-format/Tracks/Pro-Keys.md)
+- [Pad](Chart-File-Formats/mid-format/Tracks/Pad.md)
 
 ### song.ini
 
