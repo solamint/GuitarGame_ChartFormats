@@ -41,7 +41,7 @@ Difficulties:
 
 #### Note Mechanics
 
-Notes are tap notes by default. Notes can be marked as Lifts by using the Lift modifier. Typically, due to this instrument type being made for controllers, both hands should be considered for charting. Commonly found is a 2-3 split, but using the middle lane for both hands is allowed.
+Notes are tap notes by default. Notes can be marked as Lifts by using the Lift modifier. Typically, due to this instrument type being made for controllers, both hands should be considered for charting. Commonly found is a 2-3 split, but using the middle lane for both hands is allowed and hand splits should not be enforced.
 
 Sustains do not get cut off if they are shorter than a certain threshold, unlike .mid.
 

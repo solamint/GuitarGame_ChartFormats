@@ -73,7 +73,7 @@ Majority of the Pad instrument implementation is derived from 5-Fret Guitar.
 
 ### Note Mechanics
 
-Notes are tap notes by default. Notes can be marked as Lifts by using the Lift markers of each respective difficulty. Typically, due to this instrument type being made for controllers, both hands should be considered for charting. Commonly found is a 2-3 split, but using the middle lane for both hands is allowed.
+Notes are tap notes by default. Notes can be marked as Lifts by using the Lift markers of each respective difficulty. Typically, due to this instrument type being made for controllers, both hands should be considered for charting. Commonly found is a 2-3 split, but using the middle lane for both hands is allowed and hand splits should not be enforced.
 
 Sustains shorter than a 1/12th step are cut off and turned into a normal (non-sustain) note. This allows charters using a DAW to not have to make their notes 1 tick long in order for it to not be a sustain.
 
