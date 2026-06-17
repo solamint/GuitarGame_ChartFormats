@@ -70,6 +70,12 @@ Some tags are specific to certain game modes, and do not need to be supported if
 | `diff_vocals_harm`     | Difficulty of the Harmonies track.                                               | number    |
 |                        |                                                                                  |           |
 | `diff_dance`           | Difficulty of the Dance track.                                                   | number    |
+|                        |                                                                                  |           |
+| `diff_guitar_pad`      | Difficulty of the Pad Guitar/Lead track.                                         | number    |
+| `diff_drums_pad`       | Difficulty of the Pad Drums track.                                               | number    |
+| `diff_bass_pad`        | Difficulty of the Pad Bass track.                                                | number    |
+| `diff_vocals_pad`      | Difficulty of the Pad Vocals track.                                              | number    |
+| `diff_keys_pad`        | Difficulty of the Pad Keys track.                                                | number    |
 
 ## Chart Properties
 
